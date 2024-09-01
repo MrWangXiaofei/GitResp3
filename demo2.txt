@@ -1,2 +1,5 @@
 普通用户提交demo2.txt
+<<<<<<< HEAD
 master
+branch1
+>>>>>>> branch1
